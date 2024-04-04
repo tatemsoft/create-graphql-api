@@ -6,11 +6,6 @@ cd my-api
 npm start
 ```
 
-## Example
-
-Basic: https://www.youtube.com/watch?v=WhzIjYQmWvs
-
-Auth: https://www.youtube.com/watch?v=OVdPOExxKuU
 
 ## Templates
 
