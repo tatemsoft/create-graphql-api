@@ -41,5 +41,3 @@ git push heroku master
 ```
 
 Note: You'll want to look at your `ormconfig.js` and configure the options you want for production.
-
-Also see this video on how you can deploy to Digital Ocean with Dokku: https://www.youtube.com/watch?v=AdHwBKKQHZ4
